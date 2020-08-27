@@ -7,10 +7,8 @@ from os.path import join, dirname
 from dotenv import load_dotenv
 import pandas as pd
 import time
-import GetOldTweets3 as got
 import streamlit as st
 import numpy as np
-from matplotlib import pyplot
 import matplotlib.pyplot as plt
 
 
