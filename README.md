@@ -3,7 +3,7 @@
 ## Introduction:
 "This was created during my time as a student at Code Chrysalis."
 
-Project to analyse and visualize sentiment of tweets by a username or keyword you want to search for.
+Project to analyse and visualize sentiment of tweets using twitter API by a username or keyword you want to search for.
 
 ![alt text](./screenshot.png)
 
@@ -26,5 +26,7 @@ git clone repo link
 ```python
 streamlit run twitterScrape.py
 ```
+
+## Enjoy!
 
 
